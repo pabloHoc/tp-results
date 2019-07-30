@@ -49,6 +49,16 @@
         {"label":"Reutilización de código", "score":8, "weight":1},
         {"label":"Apreciativa", "score":9, "weight":1}
       ]
+    },
+    {
+      "students": ["joana",34139098,"corel",39879656],
+      "notes": [
+        {"label":"Funcionalidad/Consignas", "score":6, "weight":1},
+        {"label":"Nombre variables/funciones", "score":9, "weight":1},
+        {"label":"Prolijidad/Consistencia", "score":9, "weight":1},
+        {"label":"Reutilización de código", "score":8, "weight":1},
+        {"label":"Apreciativa", "score":8, "weight":1}
+      ]
     }
   ],
   "profile": {

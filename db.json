@@ -49,6 +49,56 @@
         {"label":"Reutilización de código", "score":8, "weight":1},
         {"label":"Apreciativa", "score":9, "weight":1}
       ]
+    },
+    {
+      "students": ["clara",31662310,"milagros",41915080],
+      "notes": [
+        {"label":"Funcionalidad/Consignas", "score":10, "weight":1},
+        {"label":"Nombre variables/funciones", "score":8, "weight":1},
+        {"label":"Prolijidad/Consistencia", "score":8, "weight":1},
+        {"label":"Reutilización de código", "score":8, "weight":1},
+        {"label":"Apreciativa", "score":10, "weight":1}
+      ]
+    },
+    {
+      "students": ["mariana",28421689,"magali",36520422],
+      "notes": [
+        {"label":"Funcionalidad/Consignas", "score":10, "weight":1},
+        {"label":"Nombre variables/funciones", "score":8, "weight":1},
+        {"label":"Prolijidad/Consistencia", "score":9, "weight":1},
+        {"label":"Reutilización de código", "score":10, "weight":1},
+        {"label":"Apreciativa", "score":8, "weight":1}
+      ]
+    },
+    {
+      "students": ["melisa c",37204436,"doriana",95734053,"ana",39459665],
+      "notes": [
+        {"label":"Funcionalidad/Consignas", "score":10, "weight":1},
+        {"label":"Nombre variables/funciones", "score":8, "weight":1},
+        {"label":"Prolijidad/Consistencia", "score":7, "weight":1},
+        {"label":"Reutilización de código", "score":7, "weight":1},
+        {"label":"Apreciativa", "score":7, "weight":1}
+      ]
+    },
+    {
+      "students": ["candela",37449924,"melisa",35946226],
+      "notes": [
+        {"label":"Funcionalidad/Consignas", "score":10, "weight":1},
+        {"label":"Nombre variables/funciones", "score":7, "weight":1},
+        {"label":"Prolijidad/Consistencia", "score":7, "weight":1},
+        {"label":"Reutilización de código", "score":6, "weight":1},
+        {"label":"Apreciativa", "score":8, "weight":1}
+      ]
+    },
+    {
+      "students": ["paula i",39373014,"valeria",31763933],
+      "notes": [
+        {"label":"Funcionalidad/Consignas", "score":10, "weight":1},
+        {"label":"Nombre variables/funciones", "score":8, "weight":1},
+        {"label":"Prolijidad/Consistencia", "score":9, "weight":1},
+        {"label":"Reutilización de código", "score":8, "weight":1},
+        {"label":"Apreciativa", "score":9, "weight":1}
+      ]
     }
   ],
   "profile": {

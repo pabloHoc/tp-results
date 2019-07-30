@@ -3,11 +3,11 @@
     {
       "students": ["micaela",40259941,"victoria",38175537],
       "notes": [
-        {"label":"Funcionalidad/Consignas", "score":10, "weight":5},
-        {"label":"Nombre variables/funciones", "score":8, "weight":10},
-        {"label":"Prolijidad/Consistencia", "score":9, "weight":5},
-        {"label":"Reutilización de código", "score":7, "weight":15},
-        {"label":"Apreciativa", "score":9, "weight":5}
+        {"label":"Funcionalidad/Consignas", "score":10, "weight":1},
+        {"label":"Nombre variables/funciones", "score":8, "weight":1},
+        {"label":"Prolijidad/Consistencia", "score":9, "weight":1},
+        {"label":"Reutilización de código", "score":7, "weight":1},
+        {"label":"Apreciativa", "score":9, "weight":1}
       ]
     }, 
     {

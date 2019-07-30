@@ -1,57 +1,151 @@
 {
-  "results": [
-    {
-      "students": ["micaela",40259941,"victoria",38175537],
-      "notes": [
-        {"label":"Funcionalidad/Consignas", "score":10, "weight":5},
-        {"label":"Nombre variables/funciones", "score":8, "weight":10},
-        {"label":"Prolijidad/Consistencia", "score":9, "weight":5},
-        {"label":"Reutilización de código", "score":7, "weight":15},
-        {"label":"Apreciativa", "score":9, "weight":5},
-      ]
-    }, 
-    {
-      "students": ["sofía",39515503,"gleyser",95713658],
-      "notes": [
-        {"label":"Funcionalidad/Consignas", "score":9, "weight":5},
-        {"label":"Nombre variables/funciones", "score":7, "weight":10},
-        {"label":"Prolijidad/Consistencia", "score":9, "weight":5},
-        {"label":"Reutilización de código", "score":7, "weight":10},
-        {"label":"Apreciativa", "score":8, "weight":10},
-      ]
-    },
-    {
-      "students": ["karen",29191814,"ornella",35364915],
-      "notes": [
-        {"label":"Funcionalidad/Consignas", "score":10, "weight":5},
-        {"label":"Nombre variables/funciones", "score":7, "weight":15},
-        {"label":"Prolijidad/Consistencia", "score":8, "weight":10},
-        {"label":"Reutilización de código", "score":9, "weight":5},
-        {"label":"Apreciativa", "score":7, "weight":15},
-      ]
-    },
-    {
-      "students": ["carolina",36899673,"noelí",37352623],
-      "notes": [
-        {"label":"Funcionalidad/Consignas", "score":9, "weight":5},
-        {"label":"Nombre variables/funciones", "score":8, "weight":10},
-        {"label":"Prolijidad/Consistencia", "score":9, "weight":5},
-        {"label":"Reutilización de código", "score":7, "weight":15},
-        {"label":"Apreciativa", "score":8, "weight":10},
-      ]
-    },
-    {
-      "students": ["ailén",40132469,"paula",30183123],
-      "notes": [
-        {"label":"Funcionalidad/Consignas", "score":9, "weight":5},
-        {"label":"Nombre variables/funciones", "score":9, "weight":5},
-        {"label":"Prolijidad/Consistencia", "score":10, "weight":5},
-        {"label":"Reutilización de código", "score":8, "weight":10},
-        {"label":"Apreciativa", "score":9, "weight":5},
-      ]
-    },
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"results": [{
+			"students": ["micaela", 40259941, "victoria", 38175537],
+			"notes": [{
+					"label": "Funcionalidad/Consignas",
+					"score": 10,
+					"weight": 5
+				},
+				{
+					"label": "Nombre variables/funciones",
+					"score": 8,
+					"weight": 10
+				},
+				{
+					"label": "Prolijidad/Consistencia",
+					"score": 9,
+					"weight": 5
+				},
+				{
+					"label": "Reutilización de código",
+					"score": 7,
+					"weight": 15
+				},
+				{
+					"label": "Apreciativa",
+					"score": 9,
+					"weight": 5
+				}
+			]
+		},
+		{
+			"students": ["sofía", 39515503, "gleyser", 95713658],
+			"notes": [{
+					"label": "Funcionalidad/Consignas",
+					"score": 9,
+					"weight": 5
+				},
+				{
+					"label": "Nombre variables/funciones",
+					"score": 7,
+					"weight": 10
+				},
+				{
+					"label": "Prolijidad/Consistencia",
+					"score": 9,
+					"weight": 5
+				},
+				{
+					"label": "Reutilización de código",
+					"score": 7,
+					"weight": 10
+				},
+				{
+					"label": "Apreciativa",
+					"score": 8,
+					"weight": 10
+				}
+			]
+		},
+		{
+			"students": ["karen", 29191814, "ornella", 35364915],
+			"notes": [{
+					"label": "Funcionalidad/Consignas",
+					"score": 10,
+					"weight": 5
+				},
+				{
+					"label": "Nombre variables/funciones",
+					"score": 7,
+					"weight": 15
+				},
+				{
+					"label": "Prolijidad/Consistencia",
+					"score": 8,
+					"weight": 10
+				},
+				{
+					"label": "Reutilización de código",
+					"score": 9,
+					"weight": 5
+				},
+				{
+					"label": "Apreciativa",
+					"score": 7,
+					"weight": 15
+				}
+			]
+		},
+		{
+			"students": ["carolina", 36899673, "noelí", 37352623],
+			"notes": [{
+					"label": "Funcionalidad/Consignas",
+					"score": 9,
+					"weight": 5
+				},
+				{
+					"label": "Nombre variables/funciones",
+					"score": 8,
+					"weight": 10
+				},
+				{
+					"label": "Prolijidad/Consistencia",
+					"score": 9,
+					"weight": 5
+				},
+				{
+					"label": "Reutilización de código",
+					"score": 7,
+					"weight": 15
+				},
+				{
+					"label": "Apreciativa",
+					"score": 8,
+					"weight": 10
+				}
+			]
+		},
+		{
+			"students": ["ailén", 40132469, "paula", 30183123],
+			"notes": [{
+					"label": "Funcionalidad/Consignas",
+					"score": 9,
+					"weight": 5
+				},
+				{
+					"label": "Nombre variables/funciones",
+					"score": 9,
+					"weight": 5
+				},
+				{
+					"label": "Prolijidad/Consistencia",
+					"score": 10,
+					"weight": 5
+				},
+				{
+					"label": "Reutilización de código",
+					"score": 8,
+					"weight": 10
+				},
+				{
+					"label": "Apreciativa",
+					"score": 9,
+					"weight": 5
+				}
+			]
+		}
+	],
+	"profile": {
+		"name": "typicode"
+	}
 }

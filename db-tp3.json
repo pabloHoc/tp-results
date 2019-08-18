@@ -1,0 +1,62 @@
+{
+  "results": [
+    {
+      "students": ["clara",31662310],
+      "notes": [
+        {"label":"Reutilización de código", "score":8, "weight":1},
+        {"label":"Algoritmos", "score":9, "weight":1},
+        {"label":"Prolijidad/Consistencia", "score":9, "weight":1},
+        {"label":"Nombres variable/funciones", "score":9, "weight":1},
+        {"label":"Maquetado/Sass", "score":9, "weight":1}
+      ]
+    }, {
+      "students": ["micaela",40259941,"ana",39459665],
+      "notes": [
+        {"label":"Reutilización de código", "score":6, "weight":1},
+        {"label":"Algoritmos", "score":7, "weight":1},
+        {"label":"Prolijidad/Consistencia", "score":7, "weight":1},
+        {"label":"Nombres variable/funciones", "score":8, "weight":1},
+        {"label":"Maquetado/Sass", "score":6, "weight":1}
+      ]
+    }, {
+      "students": ["noeli",37352623,"milagros",41915080],
+      "notes": [
+        {"label":"Reutilización de código", "score":7, "weight":1},
+        {"label":"Algoritmos", "score":8, "weight":1},
+        {"label":"Prolijidad/Consistencia", "score":9, "weight":1},
+        {"label":"Nombres variable/funciones", "score":8, "weight":1},
+        {"label":"Maquetado/Sass", "score":8, "weight":1}
+      ]
+    }, {
+      "students": ["ailen",40132469,"mariana",28421689,"corel",39879656],
+      "notes": [
+        {"label":"Reutilización de código", "score":8, "weight":1},
+        {"label":"Algoritmos", "score":9, "weight":1},
+        {"label":"Prolijidad/Consistencia", "score":9, "weight":1},
+        {"label":"Nombres variable/funciones", "score":9, "weight":1},
+        {"label":"Maquetado/Sass", "score":8, "weight":1}
+      ]
+    }, {
+      "students": ["candela",37449924,"gleyser",95713658],
+      "notes": [
+        {"label":"Reutilización de código", "score":6, "weight":1},
+        {"label":"Algoritmos", "score":6, "weight":1},
+        {"label":"Prolijidad/Consistencia", "score":7, "weight":1},
+        {"label":"Nombres variable/funciones", "score":8, "weight":1},
+        {"label":"Maquetado/Sass", "score":6, "weight":1}
+      ]
+    }, {
+      "students": ["carolina",36899673,"paula",39373014],
+      "notes": [
+        {"label":"Reutilización de código", "score":7, "weight":1},
+        {"label":"Algoritmos", "score":8, "weight":1},
+        {"label":"Prolijidad/Consistencia", "score":8, "weight":1},
+        {"label":"Nombres variable/funciones", "score":8, "weight":1},
+        {"label":"Maquetado/Sass", "score":7, "weight":1}
+      ]
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

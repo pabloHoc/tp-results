@@ -6,7 +6,7 @@
         {"label":"Reutilización de código", "score":8, "weight":1},
         {"label":"Algoritmos", "score":9, "weight":1},
         {"label":"Prolijidad/Consistencia", "score":9, "weight":1},
-        {"label":"Nombres variable/funciones", "score":9, "weight":1},
+        {"label":"Nombres de variables/funciones", "score":9, "weight":1},
         {"label":"Maquetado/Sass", "score":9, "weight":1}
       ]
     }, {
@@ -15,7 +15,7 @@
         {"label":"Reutilización de código", "score":6, "weight":1},
         {"label":"Algoritmos", "score":7, "weight":1},
         {"label":"Prolijidad/Consistencia", "score":7, "weight":1},
-        {"label":"Nombres variable/funciones", "score":8, "weight":1},
+        {"label":"Nombres de variables/funciones", "score":8, "weight":1},
         {"label":"Maquetado/Sass", "score":6, "weight":1}
       ]
     }, {
@@ -24,7 +24,7 @@
         {"label":"Reutilización de código", "score":7, "weight":1},
         {"label":"Algoritmos", "score":8, "weight":1},
         {"label":"Prolijidad/Consistencia", "score":9, "weight":1},
-        {"label":"Nombres variable/funciones", "score":8, "weight":1},
+        {"label":"Nombres de variables/funciones", "score":8, "weight":1},
         {"label":"Maquetado/Sass", "score":8, "weight":1}
       ]
     }, {
@@ -33,7 +33,7 @@
         {"label":"Reutilización de código", "score":8, "weight":1},
         {"label":"Algoritmos", "score":9, "weight":1},
         {"label":"Prolijidad/Consistencia", "score":9, "weight":1},
-        {"label":"Nombres variable/funciones", "score":9, "weight":1},
+        {"label":"Nombres de variables/funciones", "score":9, "weight":1},
         {"label":"Maquetado/Sass", "score":8, "weight":1}
       ]
     }, {
@@ -42,7 +42,7 @@
         {"label":"Reutilización de código", "score":6, "weight":1},
         {"label":"Algoritmos", "score":6, "weight":1},
         {"label":"Prolijidad/Consistencia", "score":7, "weight":1},
-        {"label":"Nombres variable/funciones", "score":8, "weight":1},
+        {"label":"Nombres de variables/funciones", "score":8, "weight":1},
         {"label":"Maquetado/Sass", "score":6, "weight":1}
       ]
     }, {
@@ -51,7 +51,7 @@
         {"label":"Reutilización de código", "score":7, "weight":1},
         {"label":"Algoritmos", "score":8, "weight":1},
         {"label":"Prolijidad/Consistencia", "score":8, "weight":1},
-        {"label":"Nombres variable/funciones", "score":8, "weight":1},
+        {"label":"Nombres de variables/funciones", "score":8, "weight":1},
         {"label":"Maquetado/Sass", "score":7, "weight":1}
       ]
     }

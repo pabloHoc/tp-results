@@ -54,6 +54,42 @@
         {"label":"Nombres de variables/funciones", "score":8, "weight":1},
         {"label":"Maquetado/Sass", "score":7, "weight":1}
       ]
+    }, {
+      "students": ["melisaC",37204436,"karen",29191814],
+      "notes": [
+        {"label":"Reutilización de código", "score":8, "weight":1},
+        {"label":"Algoritmos", "score":8, "weight":1},
+        {"label":"Prolijidad/Consistencia", "score":8, "weight":1},
+        {"label":"Nombres de variables/funciones", "score":9, "weight":1},
+        {"label":"Maquetado/Sass", "score":8, "weight":1}
+      ]
+    }, {
+      "students": ["melisaD",35946226,"victoria",38175537],
+      "notes": [
+        {"label":"Reutilización de código", "score":7, "weight":1},
+        {"label":"Algoritmos", "score":8, "weight":1},
+        {"label":"Prolijidad/Consistencia", "score":8, "weight":1},
+        {"label":"Nombres de variables/funciones", "score":8, "weight":1},
+        {"label":"Maquetado/Sass", "score":8, "weight":1}
+      ]
+    }, {
+      "students": ["sofia",39515503,"doriana",95734053],
+      "notes": [
+        {"label":"Reutilización de código", "score":6, "weight":1},
+        {"label":"Algoritmos", "score":8, "weight":1},
+        {"label":"Prolijidad/Consistencia", "score":7, "weight":1},
+        {"label":"Nombres de variables/funciones", "score":7, "weight":1},
+        {"label":"Maquetado/Sass", "score":7, "weight":1}
+      ]
+    }, {
+      "students": ["ornella",35364915,"valeria",31763933],
+      "notes": [
+        {"label":"Reutilización de código", "score":7, "weight":1},
+        {"label":"Algoritmos", "score":8, "weight":1},
+        {"label":"Prolijidad/Consistencia", "score":8, "weight":1},
+        {"label":"Nombres de variables/funciones", "score":8, "weight":1},
+        {"label":"Maquetado/Sass", "score":8, "weight":1}
+      ]
     }
   ],
   "profile": {
